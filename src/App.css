@@ -10,7 +10,7 @@
 
 body{
     margin-top: 0px;
-    /*background-color: rgb(0, 90, 139);*/
+    
     background-image:url("./images/2.jpg");
     background-size: cover ;
     background-repeat: no-repeat;
@@ -37,6 +37,7 @@ hr{
 }
 .navbar-dark{
     background-color: cadetblue;
+    
 }
 .jumbotron {
     padding:90px 30px 70px 30px;
@@ -116,9 +117,9 @@ section {
 }
 
 .info h3{
-    color: #3a6cf4;
+    color: black;
     font-size: 1.2em;
-    font-weight: 700;
+    
     margin: 10px;
 }
 .card-img-contact{
